@@ -40,10 +40,10 @@ export default class Sidebar extends Component {
                   <li className="active"><a href="#home" data-nav-section="home">Home</a></li>
                   <li><a href="#offer" data-nav-section="offer">What We Offer</a></li>
                   <li><a href="#information" data-nav-section="information">Information</a></li>
-                  <li><a href="#contact" data-nav-section="contact">Contact Us</a></li>
 
 
-            {/*      <div className="dropdown">
+
+                  <div className="dropdown">
                     <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Contact Us<span class="caret"></span></button>
                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 
@@ -70,7 +70,7 @@ export default class Sidebar extends Component {
 
                     </ul>
 
-                  </div>  */}
+                  </div>
 
                 </ul>
               </div>

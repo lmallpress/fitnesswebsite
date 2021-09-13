@@ -28,7 +28,7 @@ export default class ContactUs extends Component {
 									<i class="icon-map"></i>
 								</div>
 								<div class="colorlib-text">
-									<p>Anywhere, USA 12345</p>
+									<p>198 West 21th Street, Suite 721 New York NY 10016</p>
 								</div>
 							</div>
 
@@ -46,19 +46,19 @@ export default class ContactUs extends Component {
 								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
 									<form action="">
 										<div class="form-group">
-											<input type="text" class="form-control" placeholder="Name" />
+											<input type="text" class="form-control" placeholder="Name" >
 										</div>
 										<div class="form-group">
-											<input type="text" class="form-control" placeholder="Email" />
+											<input type="text" class="form-control" placeholder="Email" >
 										</div>
 										<div class="form-group">
-											<input type="text" class="form-control" placeholder="Subject" />
+											<input type="text" class="form-control" placeholder="Subject" >
 										</div>
 										<div class="form-group">
 											<textarea name="" id="message" cols="30" rows="7" class="form-control" placeholder="Message"></textarea >
 										</div>
 										<div class="form-group">
-											<input type="submit" class="btn btn-primary btn-send-message" value="Send Message" />
+											<input type="submit" class="btn btn-primary btn-send-message" value="Send Message">
 										</div>
 									</form>
 								</div>
@@ -68,6 +68,7 @@ export default class ContactUs extends Component {
 					</div>
 				</div>
 			</section>
+
       </div>
     )
   }

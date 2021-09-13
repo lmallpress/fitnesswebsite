@@ -19,7 +19,7 @@ export default class Offer extends Component {
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-1">
                                     <span className="icon">
-                                        <i className="icon-phone3" />
+                                        <i className="" />
                                     </span>
 
                                     
