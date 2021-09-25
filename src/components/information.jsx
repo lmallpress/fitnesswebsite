@@ -38,7 +38,7 @@ export default class Information extends Component {
                     <div className="information-entry-inner">
 
                       <div className="information-label">
-                        <h2> Personal Training</h2>
+                        <h2>Meet the trainers</h2>
                         <p></p>
                       </div>
                     </div>

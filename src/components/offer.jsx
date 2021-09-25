@@ -16,34 +16,27 @@ export default class Offer extends Component {
 
                         <div className="row">
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                                <div class="project" style={{ backgroundImage: 'url(images/img-1.jpg)' }} >
+                                <div class="project" style={{ backgroundImage: 'url(images/boxing.jpg)' }} >
                                     <div className="desc">
-                                        <div className="con">
-                                            <h3>Boxing</h3>
-                                        </div>
+                                        <h3>Boxing</h3>
                                     </div>
                                 </div>
                             </div>
 
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-                                <div class="project" style={{ backgroundImage: 'url(images/img-2.jpg)' }} >
+                                <div class="project" style={{ backgroundImage: 'url(images/equip.jpg)' }} >
                                     <div className="desc">
-                                        <div className="con">
-                                            <h3>Fitness Equipment</h3>
-                                        </div>
+                                        <h3>Fitness Equipment</h3>
                                     </div>
                                 </div>
                             </div>
 
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-                                    <div class="project" style={{ backgroundImage: 'url(images/img-4.jpg)' }} >
-                                        <div class="desc">
-                                            <div className="con">
-                                                <h3>Personal Training</h3>
-                                                <span className>Meet the trainers</span>
-                                            </div>
-                                        </div>
+                                <div class="project" style={{ backgroundImage: 'url(images/trainers.jpg)' }} >
+                                    <div class="desc">
+                                        <h3>Personal Training</h3>
                                     </div>
+                                </div>
                             </div>
                         </div>
 
