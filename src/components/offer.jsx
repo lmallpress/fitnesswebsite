@@ -17,14 +17,11 @@ export default class Offer extends Component {
 
                         <div className="row row-pt-md">
                             <div className="col-md-4 text-center animate-box">
-                                <div className="services color-1">
+                                <div className="services color-2">
                                     <span className="icon">
                                         <i className="" />
                                     </span>
-
-                                    
-
-
+                                
                                     <div className="desc">
                                         <h3> Boxing Ring </h3>
                                         <p></p>
@@ -45,7 +42,7 @@ export default class Offer extends Component {
                             </div>
 
                             <div className="col-md-4 text-center animate-box">
-                                <div className="services color-5">
+                                <div className="services color-6">
                                     <span className="icon">
                                         <i className="" />
                                     </span>
