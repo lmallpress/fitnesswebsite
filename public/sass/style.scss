@@ -1221,7 +1221,8 @@ margin-left: -20px;
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: $brand-primary;
+		background: #2c98f0;
+		//background: $brand-primary;
 		opacity: 0;
 		@include transition(.3s);
 		.con{
