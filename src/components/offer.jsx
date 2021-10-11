@@ -16,9 +16,11 @@ export default class Offer extends Component {
 
                         <div className="row">
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-                                <div class="project" style={{ backgroundImage: 'url(images/boxing.jpg)' }} >
+                                <div className="project" style={{ backgroundImage: 'url(images/boxing.jpg)' }} >
                                     <div className="desc">
-                                        <h3>Boxing</h3>
+                                        <div className="con">
+                                            <h3>Boxing</h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -26,59 +28,34 @@ export default class Offer extends Component {
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
                                 <div class="project" style={{ backgroundImage: 'url(images/equip.jpg)' }} >
                                     <div className="desc">
-                                        <h3>Fitness Equipment</h3>
+                                        <div className="con">
+                                            <h3>Fitness Equipment</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
+                                <div class="project" style={{ backgroundImage: 'url(images/trainers.jpg)' }} >
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3>Personal Training</h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
 
                             <div className="col-md-6 animate-box" data-animate-effect="fadeInBottom">
-                                <div class="project" style={{ backgroundImage: 'url(images/trainers.jpg)' }} >
-                                    <div class="desc">
-                                        <h3>Personal Training</h3>
+                                <div className="project" style={{ backgroundImage: 'url(images/membership.jpg)' }} >
+                                    <div className="desc">
+                                        <div className="con">
+                                            <h3>Membership</h3> 
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
 
-                        {/*     <div className="row row-pt-md">
-                            <div className="col-md-4 text-center animate-box">
-                                <div className="services color-2">
-                                    <span className="icon">
-                                        <i className="" />
-                                    </span>
-                                
-                                    <div className="desc">
-                                        <h3> Boxing Ring </h3>
-                                        <p></p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-md-4 text-center animate-box">
-                                <div className="services color-3">
-                                    <span className="icon">
-                                        <i className="icon-weights" />
-                                    </span>
-                                    <div className="desc">
-                                        <h3> Fitness Equipment </h3>
-                                        <p></p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-md-4 text-center animate-box">
-                                <div className="services color-6">
-                                    <span className="icon">
-                                        <i className="" />
-                                    </span>
-                                    <div className="desc">
-                                        <h3> Personal Training </h3>
-                                        <p></p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div> */}
                     </div>
                 </section>
             </div>

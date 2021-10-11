@@ -37,7 +37,7 @@ export default class ContactUs extends Component {
 									<i class="icon-phone"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="tel://">+123 456 7890</a></p>
+									<p><a href="tel://">123 456 7890</a></p>
 								</div>
 							</div>
 						</div>
