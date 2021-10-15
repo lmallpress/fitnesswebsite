@@ -52,12 +52,12 @@ export default class Information extends Component {
                         <h2>Try Us for Free</h2>
                         <form>
                           <div>
-                            <input
+                            <input xs={12} md={6}
                               type="email" id="loginEmail" placeholder="Enter Email"
                             />
                           </div>
                           <div>
-                            <input
+                            <input xs={12} md={6}
                               type="password" id="loginPassword" placeholder="Password"
                             />
                           </div>
