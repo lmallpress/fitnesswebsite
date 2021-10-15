@@ -73,19 +73,19 @@ export default class Information extends Component {
 
 
 
-                  <div className="information-entry begin animate-box" data-animate-effect="fadeInBottom">
+                {/*  <div className="information-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="information-entry-inner">
                       <div className="information-icon color-none">
                       </div>
                     </div>
-                  </div>
+                  </div>  */}
                 </div>
               </div>
             </div>
           </div>
 
-          
-        </section> 
+
+        </section>
       </div>
     )
   }
