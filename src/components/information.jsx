@@ -50,14 +50,14 @@ export default class Information extends Component {
 
                       <div className="information-label">
                         <h2>Try Us for Free</h2>
-                        <form>
+                        <form xs={12} md={6}>
                           <div>
-                            <input xs={12} md={6}
+                            <input
                               type="email" id="loginEmail" placeholder="Enter Email"
                             />
                           </div>
                           <div>
-                            <input xs={12} md={6}
+                            <input
                               type="password" id="loginPassword" placeholder="Password"
                             />
                           </div>
