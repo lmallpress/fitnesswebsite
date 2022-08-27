@@ -2,4 +2,3 @@
 
 deployed app : https://fitnesswebsite.vercel.app/
 
-fmfm
